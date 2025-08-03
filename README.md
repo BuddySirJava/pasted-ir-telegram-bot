@@ -344,7 +344,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you encounter any issues:
 
-1. Check the [Troubleshooting](#troubleshooting) section
+1. Check the [Troubleshooting](#-troubleshooting) section
 2. Review the logs for error messages
 3. Test your API endpoints manually
 4. Open an issue on GitHub with detailed information 
