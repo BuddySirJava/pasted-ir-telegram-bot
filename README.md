@@ -19,7 +19,7 @@ A Telegram bot that automatically detects long text or code messages in groups, 
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [API Reference](#api-reference)
-- [Troubleshooting](#troubleshooting)
+- [🔍 Troubleshooting](#-troubleshooting)
 - [Development](#development)
 
 ## ⚡ Quick Start
